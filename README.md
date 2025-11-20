@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # smart-document-extraction
 AI-Powered pipeline that converts complex unstructured PDFs into structured Excel data with original context retention using Gemini LLM.
 =======
@@ -83,4 +82,3 @@ Ronak Vadher
 Building practical AI tools for workflow automation & data transformation
 
 3nd Year — Bsc Data Science
->>>>>>> 67ba930 (AI Document Structuring Pipeline with Gemini LLM)
