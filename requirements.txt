@@ -1,0 +1,7 @@
+pdfplumber
+pandas
+openpyxl
+textwrap3
+google-generativeai
+streamlit
+protobuf==4.25.3
